@@ -1,0 +1,23 @@
+{
+  "name": "themoroccandemonlistbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apostorial/TheMoroccanDemonlistBot.git"
+  },
+  "author": "apostorial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apostorial/TheMoroccanDemonlistBot/issues"
+  },
+  "homepage": "https://github.com/apostorial/TheMoroccanDemonlistBot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
